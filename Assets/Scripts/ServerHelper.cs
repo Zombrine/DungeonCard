@@ -24,7 +24,7 @@ public class ServerHelper : MonoBehaviour {
 	
 	public void onMessage(SocketIOEvent e)
     {
-        Debug.Log("sadsa");
+        Debug.Log("Message");
     }
 
     public void LogOn()
