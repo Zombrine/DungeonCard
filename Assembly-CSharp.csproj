@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{27E23F95-D7BF-D6B2-124B-F412C91011E5}</ProjectGuid>
+    <ProjectGuid>{9910DC09-C14C-274D-1D82-22F5F870C47B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Login.cs" />
      <Compile Include="Assets\Scripts\LogOn.cs" />
      <Compile Include="Assets\Scripts\ServerHelper.cs" />
      <Compile Include="Assets\SocketIO\JSONObject\JSONObject.cs" />

@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class Login : MonoBehaviour {
 
-    public GameObject canvas;
+   public GameObject canvas;
 
-    public void LoginButton()
-    {
+   public void LoginButton()
+   {
       canvas.SetActive(true);
       gameObject.SetActive(false);
-    }
+   }
 }
