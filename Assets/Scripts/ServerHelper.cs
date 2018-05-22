@@ -27,6 +27,27 @@ public class ServerHelper : MonoBehaviour
 
    public void onMessage(SocketIOEvent e)
    {
-      Debug.Log(e.name + " " + e.data);
+      switch (e.data["module"]) {
+         case "authorization":
+            AuthorizationModule (e.data);
+            break;
+      }
+   }
+   
+   public void AuthorizationModule (JSONObject data)
+   {
+      switch (data["act"]) {
+         case "logOn":
+            onLogOn (data["param"]);
+            break;
+      }
+   }
+   
+   public void onLogOn (JSONObject param)
+   {
+      if (param["error_code"].n == 0)
+         Debug.Log ("SUCCESS!!!");
+      else
+         Debug.Log ("Error in logOn: " + param["error_code"].str);
    }
 }
