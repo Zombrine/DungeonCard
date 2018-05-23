@@ -14,8 +14,8 @@ public static class Global // важные данные, доступные во
 public class ServerHelper : MonoBehaviour
 {
 
-   public GameObject login;
-   public GameObject password;
+   //public GameObject login;
+   //public GameObject password;
 
    // Use this for initialization
    void Start()
@@ -27,7 +27,7 @@ public class ServerHelper : MonoBehaviour
 
    public void onMessage(SocketIOEvent e)
    {
-      switch (e.data["module"]) {
+      switch (e.data["module"].str) {
          case "authorization":
             AuthorizationModule (e.data);
             break;
@@ -36,7 +36,7 @@ public class ServerHelper : MonoBehaviour
    
    public void AuthorizationModule (JSONObject data)
    {
-      switch (data["act"]) {
+      switch (data["act"].str) {
          case "logOn":
             onLogOn (data["param"]);
             break;
