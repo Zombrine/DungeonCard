@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scene.unity
+- path: C:/Programs/DungeonCard-eef73b0c58d9da713b91de2f3086dfab8e2a664f/Assets/scene.unity
   isLoaded: 1
   isActive: 1

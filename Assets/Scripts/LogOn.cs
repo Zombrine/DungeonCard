@@ -7,12 +7,11 @@ public class LogOn : MonoBehaviour {
 
    public Text login;
    public Text password;
-   public Text error;
-   [SerializeField] GameObject go;
+   public Text textError;
 
    public void Push()
    {
-      if (Global.socket.IsConnected)
+      if (Global.socket.socket.IsAlive)
       {
          JSONObject data = new JSONObject(JSONObject.Type.OBJECT);
          data.AddField("module", "authorization");
@@ -23,11 +22,10 @@ public class LogOn : MonoBehaviour {
          data.AddField("param", param);
          Global.socket.Emit("onMessage", data);
          Debug.Log("Server");
-         go.active = true;
       }
       else
       {
-         error.text = "Проверьте подключение к интернету";
+         textError.text = "Проверьте подключение к интернету";
          Debug.Log("No server");
       }
    }

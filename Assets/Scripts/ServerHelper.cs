@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using UnityEngine;
+using UnityEngine.UI;
 using SocketIO;
 
 public static class Global // важные данные, доступные во всей области проекта. Обычно, здесь хранятся данные пользователя.
@@ -14,9 +15,10 @@ public static class Global // важные данные, доступные во
 public class ServerHelper : MonoBehaviour
 {
 
-   //public GameObject login;
-   //public GameObject password;
-
+   public GameObject login;
+   public GameObject password;
+   public GameObject loadingScreen;
+   public Text textError;
    // Use this for initialization
    void Start()
    {
@@ -27,27 +29,45 @@ public class ServerHelper : MonoBehaviour
 
    public void onMessage(SocketIOEvent e)
    {
-      switch (e.data["module"].str) {
+      Debug.Log("first data: " + e.data);
+      Debug.Log("module: " + e.data["module"].str);
+
+      switch (e.data["module"].str)
+      {
          case "authorization":
-            AuthorizationModule (e.data);
+            AuthorizationModule(e.data);
             break;
       }
    }
-   
-   public void AuthorizationModule (JSONObject data)
+
+   public void AuthorizationModule(JSONObject data)
    {
-      switch (data["act"].str) {
+      Debug.Log("data: " + data);
+      Debug.Log(data["act"].str);
+      switch (data["act"].str)
+      {
          case "logOn":
-            onLogOn (data["param"]);
+            onLogOn(data["param"]);
             break;
       }
    }
-   
-   public void onLogOn (JSONObject param)
+
+   public void onLogOn(JSONObject param)
    {
+      Debug.Log(param);
+      Debug.Log(param["error_code"]);
+      Debug.Log(param.GetField("error_code"));
       if (param["error_code"].n == 0)
-         Debug.Log ("SUCCESS!!!");
+      {
+         Debug.Log("SUCCESS!!!");
+         loadingScreen.SetActive(true);
+         GameObject go = GameObject.Find("Main");
+         go.SetActive(false);
+         textError.text = "";
+      }
+      else if (param["error_code"].n == 1)
+         textError.text = "Проверьте логин или пароль";
       else
-         Debug.Log ("Error in logOn: " + param["error_code"].str);
+         Debug.Log("Error in logOn: " + param["error_code"].str);
    }
 }

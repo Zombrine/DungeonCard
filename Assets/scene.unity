@@ -155,6 +155,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04e991160ae292a48acca15fa2412de2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  login: {fileID: 394319440}
+  password: {fileID: 1143172121}
+  loadingScreen: {fileID: 1659285945}
+  textError: {fileID: 2135707092}
 --- !u!1 &276214949
 GameObject:
   m_ObjectHideFlags: 0
@@ -837,6 +841,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 945704555}
+  - {fileID: 1659285946}
   m_Father: {fileID: 256407321}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1006,7 +1011,6 @@ RectTransform:
   m_Children:
   - {fileID: 704462676}
   - {fileID: 1821277745}
-  - {fileID: 1659285946}
   - {fileID: 2135707091}
   m_Father: {fileID: 256407321}
   m_RootOrder: 1
@@ -1177,13 +1181,13 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1767548467}
-  m_Father: {fileID: 1382113536}
-  m_RootOrder: 2
+  m_Father: {fileID: 1110879144}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1451, y: 972}
+  m_SizeDelta: {x: 1728, y: 972}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1659285947
 MonoBehaviour:
@@ -1697,8 +1701,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   login: {fileID: 394319442}
   password: {fileID: 1143172123}
-  error: {fileID: 2135707092}
+  textError: {fileID: 2135707092}
   go: {fileID: 1659285945}
+  main: {fileID: 704462675}
 --- !u!1 &2110890777
 GameObject:
   m_ObjectHideFlags: 0
@@ -1803,7 +1808,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1382113536}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
