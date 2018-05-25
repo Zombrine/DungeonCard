@@ -24,7 +24,7 @@ public class Login : MonoBehaviour {
       //gameObject.SetActive(false);
       if (btnLogin.interactable)
       {
-         btnLogin.interactable = false;
+         //btnLogin.interactable = false;
          btnRegister.interactable = true;
          mainLogin.SetActive(true);
          mainRegister.SetActive(false);
@@ -37,7 +37,7 @@ public class Login : MonoBehaviour {
       if (btnRegister.interactable)
       {
          btnLogin.interactable = true;
-         btnRegister.interactable = false;
+         //btnRegister.interactable = false;
          mainLogin.SetActive(false);
          mainRegister.SetActive(true);
       }

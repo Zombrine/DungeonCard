@@ -17,21 +17,24 @@ public class LogOn : MonoBehaviour {
    {
       if (Global.socket.socket.IsAlive)
       {
-         JSONObject data = new JSONObject(JSONObject.Type.OBJECT);
-         data.AddField("module", "authorization");
-         data.AddField("act", "logOn");
-         JSONObject param = new JSONObject(JSONObject.Type.OBJECT);
-         param.AddField("login", login.GetComponent<Text>().text);
-         string hash;
-         using (MD5 md5Hash = MD5.Create())
+         if (login.text != "" && password.text != "")
          {
-            hash = GetMd5Hash(md5Hash, (string)password.text);
+            JSONObject data = new JSONObject(JSONObject.Type.OBJECT);
+            data.AddField("module", "authorization");
+            data.AddField("act", "logOn");
+            JSONObject param = new JSONObject(JSONObject.Type.OBJECT);
+            param.AddField("login", login.GetComponent<Text>().text);
+            string hash;
+            using (MD5 md5Hash = MD5.Create())
+            {
+               hash = GetMd5Hash(md5Hash, (string)password.text);
+            }
+            param.AddField("password", hash);
+            data.AddField("param", param);
+            Global.socket.Emit("onMessage", data);
+            Debug.Log("Server");
+            deactivateCanvas();
          }
-         param.AddField("password", hash);
-         data.AddField("param", param);
-         Global.socket.Emit("onMessage", data);
-         Debug.Log("Server");
-         deactivateButtons();
       }
       else
       {
@@ -44,25 +47,28 @@ public class LogOn : MonoBehaviour {
    {
       if (Global.socket.socket.IsAlive)
       {
-         if (password.text == password2.text)
+         if (login.text != "" && password.text != "" && password2.text != "" && nickname.text != "")
          {
-            JSONObject data = new JSONObject(JSONObject.Type.OBJECT);
-            data.AddField("module", "authorization");
-            data.AddField("act", "register");
-            JSONObject param = new JSONObject(JSONObject.Type.OBJECT);
-            param.AddField("login", login.GetComponent<Text>().text);
-            string hash;
-            using (MD5 md5Hash = MD5.Create())
+            if (password.text == password2.text)
             {
-               hash = GetMd5Hash(md5Hash, (string)password.text);
-            }
-            param.AddField("password", hash);
+               JSONObject data = new JSONObject(JSONObject.Type.OBJECT);
+               data.AddField("module", "authorization");
+               data.AddField("act", "register");
+               JSONObject param = new JSONObject(JSONObject.Type.OBJECT);
+               param.AddField("login", login.GetComponent<Text>().text);
+               string hash;
+               using (MD5 md5Hash = MD5.Create())
+               {
+                  hash = GetMd5Hash(md5Hash, (string)password.text);
+               }
+               param.AddField("password", hash);
 
-            param.AddField("nickname", nickname.GetComponent<Text>().text);
-            data.AddField("param", param);
-            Global.socket.Emit("onMessage", data);
-            Debug.Log("Server");
-            deactivateButtons();
+               param.AddField("nickname", nickname.GetComponent<Text>().text);
+               data.AddField("param", param);
+               Global.socket.Emit("onMessage", data);
+               Debug.Log("Server");
+               deactivateCanvas();
+            }
          }
       }
       else
@@ -74,31 +80,22 @@ public class LogOn : MonoBehaviour {
 
    static string GetMd5Hash(MD5 md5Hash, string input)
    {
-
-      // Convert the input string to a byte array and compute the hash.
       byte[] data = md5Hash.ComputeHash(Encoding.UTF8.GetBytes(input));
 
-      // Create a new Stringbuilder to collect the bytes
-      // and create a string.
       StringBuilder sBuilder = new StringBuilder();
 
-      // Loop through each byte of the hashed data 
-      // and format each one as a hexadecimal string.
+      
       for (int i = 0; i < data.Length; i++)
       {
          sBuilder.Append(data[i].ToString("x2"));
       }
 
-      // Return the hexadecimal string.
       return sBuilder.ToString();
    }
 
-   void deactivateButtons()
+   void deactivateCanvas()
    {
-      for (int i = 0; i <= 1; i++)
-      {
-         GameObject btn = GameObject.FindGameObjectWithTag("buttons");
-         btn.SetActive(false);
-      }
+      GameObject canvas = GameObject.Find("CanvasMain");
+      canvas.SetActive(false);
    }
 }
