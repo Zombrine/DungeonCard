@@ -1,0 +1,1203 @@
+fileFormatVersion: 2
+guid: 2c00b8049f69bb248922afb243be724c
+timeCreated: 1527232836
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spraytshit_0
+    21300002: spraytshit_1
+    21300004: spraytshit_2
+    21300006: spraytshit_3
+    21300008: spraytshit_4
+    21300010: spraytshit_5
+    21300012: spraytshit_6
+    21300014: spraytshit_7
+    21300016: spraytshit_8
+    21300018: spraytshit_9
+    21300020: spraytshit_10
+    21300022: spraytshit_11
+    21300024: spraytshit_12
+    21300026: spraytshit_13
+    21300028: spraytshit_14
+    21300030: spraytshit_15
+    21300032: spraytshit_16
+    21300034: spraytshit_17
+    21300036: spraytshit_18
+    21300038: spraytshit_19
+    21300040: spraytshit_20
+    21300042: spraytshit_21
+    21300044: spraytshit_22
+    21300046: spraytshit_23
+    21300048: spraytshit_24
+    21300050: spraytshit_25
+    21300052: spraytshit_26
+    21300054: spraytshit_27
+    21300056: spraytshit_28
+    21300058: spraytshit_29
+    21300060: spraytshit_30
+    21300062: spraytshit_31
+    21300064: spraytshit_32
+    21300066: spraytshit_33
+    21300068: spraytshit_34
+    21300070: spraytshit_35
+    21300072: spraytshit_36
+    21300074: spraytshit_37
+    21300076: spraytshit_38
+    21300078: spraytshit_39
+    21300080: spraytshit_40
+    21300082: spraytshit_41
+    21300084: spraytshit_42
+    21300086: spraytshit_43
+    21300088: spraytshit_44
+    21300090: spraytshit_45
+    21300092: spraytshit_46
+    21300094: spraytshit_47
+    21300096: spraytshit_48
+    21300098: spraytshit_49
+    21300100: spraytshit_50
+    21300102: spraytshit_51
+    21300104: spraytshit_52
+    21300106: spraytshit_53
+    21300108: spraytshit_54
+    21300110: spraytshit_55
+    21300112: spraytshit_56
+    21300114: spraytshit_57
+    21300116: spraytshit_58
+    21300118: spraytshit_59
+    21300120: spraytshit_60
+    21300122: spraytshit_61
+    21300124: spraytshit_62
+    21300126: spraytshit_63
+    21300128: spraytshit_64
+    21300130: spraytshit_65
+    21300132: spraytshit_66
+    21300134: spraytshit_67
+    21300136: spraytshit_68
+    21300138: spraytshit_69
+    21300140: spraytshit_70
+    21300142: spraytshit_71
+    21300144: spraytshit_72
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spraytshit_0
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 4387
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 4386
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_2
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 4389
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_3
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 4388
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_4
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 4390
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_5
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 4407
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_6
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 4411
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_7
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 4406
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_8
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 4416
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_9
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 4414
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 4196
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_11
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 4013
+        width: 209
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_12
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 4013
+        width: 209
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_13
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 4028
+        width: 209
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_14
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 4045
+        width: 177
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_15
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 4040
+        width: 188
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_16
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 4054
+        width: 157
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_17
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 4054
+        width: 204
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_18
+      rect:
+        serializedVersion: 2
+        x: 5227
+        y: 4054
+        width: 183
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3997
+        width: 727
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_20
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 4029
+        width: 181
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_21
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 3997
+        width: 208
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_22
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 4021
+        width: 177
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_23
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 4021
+        width: 179
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_24
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 4065
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_25
+      rect:
+        serializedVersion: 2
+        x: 4453
+        y: 4067
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_26
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 4070
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_27
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 4048
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_28
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 4048
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_29
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 4020
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_30
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 4040
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_31
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 4040
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_32
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3559
+        width: 203
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_33
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3565
+        width: 203
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_34
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 3576
+        width: 202
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_35
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 3610
+        width: 149
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_36
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 3590
+        width: 204
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_37
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 3579
+        width: 247
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_38
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 3579
+        width: 565
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_39
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 3580
+        width: 565
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_40
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 3590
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_41
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 3579
+        width: 221
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_42
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 3590
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_43
+      rect:
+        serializedVersion: 2
+        x: 4942
+        y: 3753
+        width: 270
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_44
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 3601
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_45
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 3560
+        width: 299
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2908
+        width: 519
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_47
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 3203
+        width: 850
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_48
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 3256
+        width: 836
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_49
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 3264
+        width: 822
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_50
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 3261
+        width: 8
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_51
+      rect:
+        serializedVersion: 2
+        x: 4478
+        y: 3237
+        width: 883
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_52
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 3234
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_53
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2857
+        width: 369
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_54
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 2709
+        width: 1080
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_55
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 2936
+        width: 159
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_56
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2776
+        width: 520
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_57
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 2781
+        width: 516
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_58
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2455
+        width: 1926
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_59
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 2692
+        width: 161
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_60
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 2351
+        width: 1927
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_61
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1264
+        width: 1590
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_62
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1376
+        width: 793
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_63
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 1265
+        width: 665
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_64
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 1375
+        width: 1104
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_65
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 1934
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_66
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 1267
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 247
+        width: 860
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_68
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 255
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_69
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 255
+        width: 1680
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_70
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 206
+        width: 744
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_71
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 202
+        width: 830
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_72
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

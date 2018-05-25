@@ -49,6 +49,9 @@ public class ServerHelper : MonoBehaviour
          case "logOn":
             onLogOn(data["param"]);
             break;
+         case "register":
+            onRegisterOn(data["param"]);
+            break;
       }
    }
 
@@ -61,12 +64,33 @@ public class ServerHelper : MonoBehaviour
       {
          Debug.Log("SUCCESS!!!");
          loadingScreen.SetActive(true);
-         GameObject go = GameObject.Find("Main");
+         GameObject go = GameObject.Find("MainLogin");
          go.SetActive(false);
          textError.text = "";
       }
       else if (param["error_code"].n == 1)
          textError.text = "Проверьте логин или пароль";
+      else
+         Debug.Log("Error in logOn: " + param["error_code"].str);
+   }
+
+   public void onRegisterOn(JSONObject param)
+   {
+      Debug.Log(param);
+      Debug.Log(param["error_code"]);
+      Debug.Log(param.GetField("error_code"));
+      if (param["error_code"].n == 0)
+      {
+         Debug.Log("Register!!!");
+         loadingScreen.SetActive(true);
+         GameObject go = GameObject.Find("MainLogin");
+         go.SetActive(false);
+         textError.text = "";
+      }
+      else if (param["error_code"].n == 1)
+         textError.text = "Такой логин уже используется";
+      else if (param["error_code"].n == 2)
+         textError.text = "Такой никнейм уже используется";
       else
          Debug.Log("Error in logOn: " + param["error_code"].str);
    }

@@ -54,6 +54,7 @@
      <Compile Include="Assets\Scripts\Login.cs" />
      <Compile Include="Assets\Scripts\LogOn.cs" />
      <Compile Include="Assets\Scripts\ServerHelper.cs" />
+     <Compile Include="Assets\Scripts\SocialButton.cs" />
      <Compile Include="Assets\SocketIO\JSONObject\JSONObject.cs" />
      <Compile Include="Assets\SocketIO\JSONObject\JSONTemplates.cs" />
      <Compile Include="Assets\SocketIO\JSONObject\VectorTemplates.cs" />

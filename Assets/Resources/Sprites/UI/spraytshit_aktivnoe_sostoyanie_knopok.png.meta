@@ -1,0 +1,1308 @@
+fileFormatVersion: 2
+guid: 739341673c81fda42a13f997c982ca7c
+timeCreated: 1527232839
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spraytshit_aktivnoe_sostoyanie_knopok_0
+    21300002: spraytshit_aktivnoe_sostoyanie_knopok_1
+    21300004: spraytshit_aktivnoe_sostoyanie_knopok_2
+    21300006: spraytshit_aktivnoe_sostoyanie_knopok_3
+    21300008: spraytshit_aktivnoe_sostoyanie_knopok_4
+    21300010: spraytshit_aktivnoe_sostoyanie_knopok_5
+    21300012: spraytshit_aktivnoe_sostoyanie_knopok_6
+    21300014: spraytshit_aktivnoe_sostoyanie_knopok_7
+    21300016: spraytshit_aktivnoe_sostoyanie_knopok_8
+    21300018: spraytshit_aktivnoe_sostoyanie_knopok_9
+    21300020: spraytshit_aktivnoe_sostoyanie_knopok_10
+    21300022: spraytshit_aktivnoe_sostoyanie_knopok_11
+    21300024: spraytshit_aktivnoe_sostoyanie_knopok_12
+    21300026: spraytshit_aktivnoe_sostoyanie_knopok_13
+    21300028: spraytshit_aktivnoe_sostoyanie_knopok_14
+    21300030: spraytshit_aktivnoe_sostoyanie_knopok_15
+    21300032: spraytshit_aktivnoe_sostoyanie_knopok_16
+    21300034: spraytshit_aktivnoe_sostoyanie_knopok_17
+    21300036: spraytshit_aktivnoe_sostoyanie_knopok_18
+    21300038: spraytshit_aktivnoe_sostoyanie_knopok_19
+    21300040: spraytshit_aktivnoe_sostoyanie_knopok_20
+    21300042: spraytshit_aktivnoe_sostoyanie_knopok_21
+    21300044: spraytshit_aktivnoe_sostoyanie_knopok_22
+    21300046: spraytshit_aktivnoe_sostoyanie_knopok_23
+    21300048: spraytshit_aktivnoe_sostoyanie_knopok_24
+    21300050: spraytshit_aktivnoe_sostoyanie_knopok_25
+    21300052: spraytshit_aktivnoe_sostoyanie_knopok_26
+    21300054: spraytshit_aktivnoe_sostoyanie_knopok_27
+    21300056: spraytshit_aktivnoe_sostoyanie_knopok_28
+    21300058: spraytshit_aktivnoe_sostoyanie_knopok_29
+    21300060: spraytshit_aktivnoe_sostoyanie_knopok_30
+    21300062: spraytshit_aktivnoe_sostoyanie_knopok_31
+    21300064: spraytshit_aktivnoe_sostoyanie_knopok_32
+    21300066: spraytshit_aktivnoe_sostoyanie_knopok_33
+    21300068: spraytshit_aktivnoe_sostoyanie_knopok_34
+    21300070: spraytshit_aktivnoe_sostoyanie_knopok_35
+    21300072: spraytshit_aktivnoe_sostoyanie_knopok_36
+    21300074: spraytshit_aktivnoe_sostoyanie_knopok_37
+    21300076: spraytshit_aktivnoe_sostoyanie_knopok_38
+    21300078: spraytshit_aktivnoe_sostoyanie_knopok_39
+    21300080: spraytshit_aktivnoe_sostoyanie_knopok_40
+    21300082: spraytshit_aktivnoe_sostoyanie_knopok_41
+    21300084: spraytshit_aktivnoe_sostoyanie_knopok_42
+    21300086: spraytshit_aktivnoe_sostoyanie_knopok_43
+    21300088: spraytshit_aktivnoe_sostoyanie_knopok_44
+    21300090: spraytshit_aktivnoe_sostoyanie_knopok_45
+    21300092: spraytshit_aktivnoe_sostoyanie_knopok_46
+    21300094: spraytshit_aktivnoe_sostoyanie_knopok_47
+    21300096: spraytshit_aktivnoe_sostoyanie_knopok_48
+    21300098: spraytshit_aktivnoe_sostoyanie_knopok_49
+    21300100: spraytshit_aktivnoe_sostoyanie_knopok_50
+    21300102: spraytshit_aktivnoe_sostoyanie_knopok_51
+    21300104: spraytshit_aktivnoe_sostoyanie_knopok_52
+    21300106: spraytshit_aktivnoe_sostoyanie_knopok_53
+    21300108: spraytshit_aktivnoe_sostoyanie_knopok_54
+    21300110: spraytshit_aktivnoe_sostoyanie_knopok_55
+    21300112: spraytshit_aktivnoe_sostoyanie_knopok_56
+    21300114: spraytshit_aktivnoe_sostoyanie_knopok_57
+    21300116: spraytshit_aktivnoe_sostoyanie_knopok_58
+    21300118: spraytshit_aktivnoe_sostoyanie_knopok_59
+    21300120: spraytshit_aktivnoe_sostoyanie_knopok_60
+    21300122: spraytshit_aktivnoe_sostoyanie_knopok_61
+    21300124: spraytshit_aktivnoe_sostoyanie_knopok_62
+    21300126: spraytshit_aktivnoe_sostoyanie_knopok_63
+    21300128: spraytshit_aktivnoe_sostoyanie_knopok_64
+    21300130: spraytshit_aktivnoe_sostoyanie_knopok_65
+    21300132: spraytshit_aktivnoe_sostoyanie_knopok_66
+    21300134: spraytshit_aktivnoe_sostoyanie_knopok_67
+    21300136: spraytshit_aktivnoe_sostoyanie_knopok_68
+    21300138: spraytshit_aktivnoe_sostoyanie_knopok_69
+    21300140: spraytshit_aktivnoe_sostoyanie_knopok_70
+    21300142: spraytshit_aktivnoe_sostoyanie_knopok_71
+    21300144: spraytshit_aktivnoe_sostoyanie_knopok_72
+    21300146: spraytshit_aktivnoe_sostoyanie_knopok_73
+    21300148: spraytshit_aktivnoe_sostoyanie_knopok_74
+    21300150: spraytshit_aktivnoe_sostoyanie_knopok_75
+    21300152: spraytshit_aktivnoe_sostoyanie_knopok_76
+    21300154: spraytshit_aktivnoe_sostoyanie_knopok_77
+    21300156: spraytshit_aktivnoe_sostoyanie_knopok_78
+    21300158: spraytshit_aktivnoe_sostoyanie_knopok_79
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_0
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 4410
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_1
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 4406
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_2
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 4486
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_3
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 4415
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_4
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 4414
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 4389
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_6
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 4459
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_7
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 4388
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_8
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 4390
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 4406
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 4387
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 4385
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 4195
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_13
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 4011
+        width: 210
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_14
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 4011
+        width: 209
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_15
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 4028
+        width: 209
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_16
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 4044
+        width: 177
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_17
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 4038
+        width: 189
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_18
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 4054
+        width: 158
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_19
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 4054
+        width: 207
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_20
+      rect:
+        serializedVersion: 2
+        x: 5225
+        y: 4054
+        width: 186
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3997
+        width: 728
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_22
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 4028
+        width: 181
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_23
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 3995
+        width: 209
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_24
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 4020
+        width: 177
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_25
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 4019
+        width: 179
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_26
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 4064
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_27
+      rect:
+        serializedVersion: 2
+        x: 4453
+        y: 4067
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_28
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 4070
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_29
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 4048
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_30
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 4048
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4020
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_32
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 4040
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_33
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 4040
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3559
+        width: 203
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3565
+        width: 203
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_36
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 3576
+        width: 202
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_37
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 3609
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_38
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 3588
+        width: 204
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_39
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 3577
+        width: 249
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_40
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 3577
+        width: 565
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_41
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 3579
+        width: 566
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_42
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 3590
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_43
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 3577
+        width: 222
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_44
+      rect:
+        serializedVersion: 2
+        x: 4521
+        y: 3590
+        width: 197
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_45
+      rect:
+        serializedVersion: 2
+        x: 4942
+        y: 3752
+        width: 271
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_46
+      rect:
+        serializedVersion: 2
+        x: 4929
+        y: 3661
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_47
+      rect:
+        serializedVersion: 2
+        x: 4946
+        y: 3560
+        width: 272
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_48
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 3601
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_49
+      rect:
+        serializedVersion: 2
+        x: 5225
+        y: 3596
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_50
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2908
+        width: 521
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_51
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 3202
+        width: 852
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_52
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 3256
+        width: 836
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_53
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 3264
+        width: 822
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_54
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 3261
+        width: 8
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_55
+      rect:
+        serializedVersion: 2
+        x: 4476
+        y: 3235
+        width: 886
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_56
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 3234
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_57
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 2855
+        width: 371
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_58
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 2708
+        width: 1083
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_59
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 2936
+        width: 163
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_60
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2776
+        width: 521
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_61
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 2779
+        width: 517
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_62
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2455
+        width: 1926
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_63
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 2692
+        width: 164
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_64
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 2350
+        width: 1927
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_65
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1264
+        width: 1590
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_66
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1375
+        width: 795
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_67
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 1264
+        width: 666
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_68
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 1375
+        width: 1104
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_69
+      rect:
+        serializedVersion: 2
+        x: 4818
+        y: 1933
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_70
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 1267
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_71
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 197
+        width: 832
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_72
+      rect:
+        serializedVersion: 2
+        x: 5129
+        y: 1261
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_73
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 242
+        width: 1680
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_74
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1052
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_75
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 206
+        width: 744
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_76
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 234
+        width: 860
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_77
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 254
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_78
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 258
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spraytshit_aktivnoe_sostoyanie_knopok_79
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 205
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
