@@ -33,7 +33,6 @@ public class LogOn : MonoBehaviour {
             data.AddField("param", param);
             Global.socket.Emit("onMessage", data);
             Debug.Log("Server");
-            deactivateCanvas();
          }
       }
       else
@@ -67,7 +66,6 @@ public class LogOn : MonoBehaviour {
                data.AddField("param", param);
                Global.socket.Emit("onMessage", data);
                Debug.Log("Server");
-               deactivateCanvas();
             }
          }
       }
@@ -91,11 +89,5 @@ public class LogOn : MonoBehaviour {
       }
 
       return sBuilder.ToString();
-   }
-
-   void deactivateCanvas()
-   {
-      GameObject canvas = GameObject.Find("CanvasMain");
-      canvas.SetActive(false);
    }
 }

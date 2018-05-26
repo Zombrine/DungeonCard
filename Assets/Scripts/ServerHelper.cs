@@ -64,9 +64,8 @@ public class ServerHelper : MonoBehaviour
       {
          Debug.Log("SUCCESS!!!");
          loadingScreen.SetActive(true);
-         GameObject go = GameObject.Find("MainLogin");
+         GameObject go = GameObject.Find("CanvasMain");
          go.SetActive(false);
-         textError.text = "";
       }
       else if (param["error_code"].n == 1)
          textError.text = "Проверьте логин или пароль";
@@ -83,9 +82,8 @@ public class ServerHelper : MonoBehaviour
       {
          Debug.Log("Register!!!");
          loadingScreen.SetActive(true);
-         GameObject go = GameObject.Find("MainLogin");
+         GameObject go = GameObject.Find("CanvasMain");
          go.SetActive(false);
-         textError.text = "";
       }
       else if (param["error_code"].n == 1)
          textError.text = "Такой логин уже используется";
